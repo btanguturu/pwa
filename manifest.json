@@ -1,9 +1,9 @@
 {
-    "name": "Progressive Web App Starter",
-    "short_name": "PWA Starter",
-    "description": "Get up and running with PWAs quickly!",
+    "name": "The Lourve Museum in France",
+    "short_name": "The Lourve",
+    "description": "An art museum in France",
     "scope": ".",
-    "start_url": "/pwa-starter",
+    "start_url": "/pwa",
     "display": "standalone",
     "orientation": "portrait", 
     "background_color": "#ffffff",
